@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="lightbox_dialog" parent="@android:style/Theme.Translucent.NoTitleBar">
+	    <item name="android:windowAnimationStyle">@style/dialog_animation</item>
+	    <item name="android:background">@color/translucent_black</item>
+	</style>
+	
+	<style name="dialog_animation">
+	    <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+	    <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+	</style>
+</resources>
