@@ -7,7 +7,8 @@ This is a simple library for achieving a [lightbox](http://lokeshdhakar.com/proj
 ## Using this library
 First, add the lightbox_dialog.xml file to your res/layout folder. Then add the styles.xml and colors.xml in your res/values folder.  
 
-Then, just define these methods in your base Activity:
+Then, just define these methods in your base Activity:  
+
 	private Dialog busyDialog;
 	
 	public void showBusyDialog(String message) {
