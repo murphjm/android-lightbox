@@ -20,12 +20,7 @@ Then, just define these methods in your base Activity:
 	
 	public void dismissBusyDialog() {
 		if (busyDialog != null)
-		{
-			try {
-				busyDialog.dismiss();
-			}
-			catch(IllegalArgumentException err) { }
-		}
+			busyDialog.dismiss();
 		
 		busyDialog = null;
 	}  
