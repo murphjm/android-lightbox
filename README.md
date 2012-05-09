@@ -4,7 +4,7 @@ Web Site: [Public Static Droid Main](http://publicstaticdroidmain.com/)
 
 This is a simple library for achieving a [lightbox](http://lokeshdhakar.com/projects/lightbox2/) style overlay effect with Android progress dialogs. 
 
-![](https://github.com/jmschultz/android-lightbox/raw/master/img/lightbox.png)  
+![](https://github.com/jmschultz/android-lightbox/raw/master/lightbox.png)  
 
 ## Using this library
 First, add the lightbox_dialog.xml file to your res/layout folder. Then add the styles.xml and colors.xml in your res/values folder.  
