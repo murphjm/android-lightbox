@@ -1,4 +1,4 @@
-# android-lightbox, a lightbox effect for Android dialogs
+# android-lightbox, a LightBox Effect for Android Dialogs
 
 Web Site: [Public Static Droid Main](http://publicstaticdroidmain.com/)
 
